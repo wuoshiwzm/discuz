@@ -2,813 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad5ed3ee-7cac-424e-817d-48854fb90bfd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/015aa15860953ca8012060c878f69d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/015aa15860953ca8012060c878f69d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/jx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/005M8Yymjw8f92yzr33g4j30ku0lp76e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/006aOKFujw8fayco92qalj30ku0kuab4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/006kzi0Djw8fb3eh0xqv3j30ru0rutaa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/006oXN3tjw8f193qg0kxej304q04qt8h.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/62314ba0jw1e8qgp5bmzyj2050050aa8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/6964407ejw1e8qgp5bmzyj2050050aa8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/6b971aedjw1e8qgp5bmzyj2050050aa8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/73e5ca8bjw8fawfsfcj6mj20ro0rp76f.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/80c9e819jw1e8qgp5bmzyj2050050aa8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/bf9efea2jw8fazo7hjymdj20c80c8dg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/default_avatar_female_50.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/heart.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/hei_org.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/love.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/tooth.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/tz_org.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/wg_org.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/x_org.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/ps.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/pw1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/pw2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/pw3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/pw4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/pw5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/pw6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/time.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/weibobanner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/z1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/z2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/zcwx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/jx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/005M8Yymjw8f92yzr33g4j30ku0lp76e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/006aOKFujw8fayco92qalj30ku0kuab4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/006kzi0Djw8fb3eh0xqv3j30ru0rutaa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/006oXN3tjw8f193qg0kxej304q04qt8h.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/62314ba0jw1e8qgp5bmzyj2050050aa8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/6964407ejw1e8qgp5bmzyj2050050aa8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/6b971aedjw1e8qgp5bmzyj2050050aa8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/73e5ca8bjw8fawfsfcj6mj20ro0rp76f.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/80c9e819jw1e8qgp5bmzyj2050050aa8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/bf9efea2jw8fazo7hjymdj20c80c8dg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/default_avatar_female_50.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/heart.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/hei_org.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/love.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/tooth.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/tz_org.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/wg_org.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/x_org.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/ps.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/pw1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/pw2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/pw3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/pw4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/pw5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/pw6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/time.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/weibobanner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/z1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/z2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/zcwx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/PageView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/StdID.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/WebUtil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/a.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/a_002.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/a_data/client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/a_data_002/clientData.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/PageView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/StdID.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/WebUtil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/a.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/a_002.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/a_data/client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/a_data_002/clientData.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/bcore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/dplus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/globalwide.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/iframeWidget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/imgdomain.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/jquery-1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/jquery-selection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/jquery_002.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/gaea_1_19.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/live.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/liveStream.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/skin_default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/listlive_data/suda.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/logon-v1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/passport-v1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/passport.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/wb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/zcool-analytics.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/zcool.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/activity_files/zhanku.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/bcore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/dplus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/globalwide.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/iframeWidget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/imgdomain.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/index.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/jquery-1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/jquery-selection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/jquery_002.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/gaea_1_19.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/live.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/liveStream.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/skin_default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/listlive_data/suda.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/logon-v1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/passport-v1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/passport.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/wb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/zcool-analytics.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/zcool.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/zhanku.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/plugin/leon_reply/database" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/plugin/leon_reply/reply_me_member_set.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/plugin/leon_reply/ultrax.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/activity/common/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/activity/common/footer.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/activity/common/header.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/activity/protal/index backup.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/activity/protal/index.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/forum/media.htm" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/addonmd5/win8mi_19th_toutiao.template.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/addonmd5/win8mi_20th_sunnytheme.template.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/common/extend_common.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/common/footer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/common/header.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/common/header_common.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/common/indexsearch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/common/pubsearchform.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/common/seccheck.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/common/widthauto.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/discuz_style_win8mi_19th_toutiao.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/portal/index.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/preview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/preview_large.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/ranklist/ranklist.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/search/forum.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/search/forum_adv.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/search/pubsearch.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/ad/ad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/ad/ad1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/ad/ad2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/ad/ad3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/add.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/all_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/arrow-top2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/arrow.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/arrow2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/arrow_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/arrow_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/arrwd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/art-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/ask-i.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/atarget.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/author.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/b_dot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/banner_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/banner_guanyu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/barBg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/bg5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/bg_flbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/bg_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/bg_sprites.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/bg_top.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/bgs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/black0.1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/black0.5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/black03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/black3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/block_l.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/block_r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/box_bgB.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/box_bgC.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/box_bgT.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/chart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/chart2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/clock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/cmmnt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/code.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/collapsed_no.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/collapsed_yes.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/comment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/common-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/control_l.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/control_r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/date.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/dot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/dot1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/dot2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/dot3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/dotline.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/earth.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/edit.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/exp-cover-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/exp-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/eye.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/f_post.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/fastreply.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/fire.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/flw_ico.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/focus_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/focus_bun.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/forum-desc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/forum.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/forum_new.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/fslide_btn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/gh_level.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/guide.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/hand.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/headbg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/header_down_nrrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/header_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/heart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/hiddenpoststip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/hlrmtj.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/hmhd-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/hmxy-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/home_pic_new.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/hot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/hot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/hot_icon.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/hot_line_new.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/hot_pic_new.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/hrrmht.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/hrrwbd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/hrtjzz.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/i1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/i1_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/i2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/i2_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/i3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/i3_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/ico.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/ico_14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/ico_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/ico_reply.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/ico_reply_view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/ico_see.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/ico_see_view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/icon1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/icon16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/icon2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/icon3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/icon30-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/icon5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/icon6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/icon8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/icon9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/icon_slide.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/img/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/img/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/img/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/img/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/img/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/img/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/img/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/img/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/img/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/imn01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/indexTool.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/infos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/input-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/js/forum_viewthread.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/js/jPages.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/js/jquery.JPlaceHolder.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/js/jquery.superslide.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/js/nav.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/js/pace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/js/scrolltop.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/left_bar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/line2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/linkstitle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/list.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/logo2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/main-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/main_icon.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/main_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/member.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/meta-calss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/meta-date.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/meta-replay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/money.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/moquu_tab.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/more.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/msg_caption.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/nav_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/new_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/newbie_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/news-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/next2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/no.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/noLogin.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/noavatar_default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/notice.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/nv.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/off.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/page.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/page1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/page2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/page_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/pages.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/pages2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/partnerstitle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/personal_source.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/pic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/pmto.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/pn_post.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/pn_reply.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/point.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/point_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/point_r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/point_ron.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/point_z.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/point_zon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/portaldiy.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/post.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/post2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/postSprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/prev.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/prev2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/public.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/punch.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/qrcode.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/r_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/rank.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/rec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/rec_add.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/rec_subtract.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/refresh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/reply.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/report.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/rt_ico.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/rt_ico2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/s_chat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/scrolltop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/search1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/shade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/share.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/side-icon02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/sideSprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/side_reply.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/sigline.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/slide-btnl.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/slide-btnr.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/slide.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/slide_btn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/slide_btn2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/snsSprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/soc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/space.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/space_album.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/space_blog.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/space_doing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/space_follow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/space_message.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/space_profile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/space_share.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/space_thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/sprite-clean.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/star.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/sub-four.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/symbol-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/symbol-11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/symbol-26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/symbol-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/symbol-9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/thread_post.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/ticker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/top.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/top2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/top_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/tougao.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/trip-ask-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/tu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/tv.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/views.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/vlineb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/website_icon@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/white2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/011.small.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/activity_s.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/activitysmall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/agree.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/common.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/debatesmall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/digest_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/digest_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/digest_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/disagree.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/folder_common.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/folder_hot.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/folder_lock.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/folder_new.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/folder_s.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/hot_1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/hot_2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/hot_3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/image_s.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/pin_1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/pin_2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/pin_3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/pollsmall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/recommend_1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/recommend_2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/recommend_3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/rewardsmall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/top.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/win8mi_common/tradesmall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/write.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/write2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/wx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/yes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/yp_spirit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/yp_spirit1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/yp_spirit2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_19th_toutiao/src/yqlink.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/common/extend_common.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/common/footer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/common/header.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/common/header_common.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/common/indexsearch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/common/pubsearchform.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/common/seccheck.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/common/widthauto.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/discuz_style_win8mi_20th_sunnytheme.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/portal/index.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/preview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/preview_large.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/ranklist/ranklist.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/search/forum.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/search/forum_adv.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/search/pubsearch.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/2-2-1024x289.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/a_top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/a_top1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ad/ad-big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ad/ad.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ad/ad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ad/ad1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ad/ad2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ad/ad3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/add.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/all_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/arrow-top2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/arrow.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/arrow2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/arrow_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/arrow_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/arrwd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/art-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ask-i.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/atarget.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/author.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/b_dot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ban_toleft.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ban_toright.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/banner_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/banner_guanyu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/bar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/barBg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/bg-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/bg5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/bg_flbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/bg_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/bg_sprites.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/bg_top.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/bgs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/black0.1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/black0.5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/black03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/black3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/block_l.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/block_r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/box_bgB.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/box_bgC.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/box_bgT.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/chart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/chart2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/clock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/cmmnt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/code.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/collapsed_no.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/collapsed_yes.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/comment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/common-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/control_l.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/control_r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/controls.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/date.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/dot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/dot1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/dot2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/dot3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/dot_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/dotline.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/earth.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/edit.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/exp-cover-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/exp-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/eye.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/f_post.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/fastreply.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/fire.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/flw_ico.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/focus_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/focus_bun.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/follow-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/forum-desc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/forum.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/forum_new.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/fslide_btn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/gh_level.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/guide.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/hand.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/headbg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/header_down_nrrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/header_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/heart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/hiddenpoststip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/hlrmtj.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/hmhd-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/hmxy-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/home_pic_new.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/hot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/hot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/hot_icon.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/hot_line_new.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/hot_pic_new.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/hrrmht.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/hrrwbd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/hrtjzz.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/i1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/i1_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/i2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/i2_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/i3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/i3_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ico.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ico_14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ico_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ico_reply.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ico_reply_view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ico_see.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ico_see_view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/icon-heading.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/icon1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/icon16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/icon2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/icon3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/icon30-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/icon5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/icon6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/icon8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/icon9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/icon_slide.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/img/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/img/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/img/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/img/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/img/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/img/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/img/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/img/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/img/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/imn01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/indexTool.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/infos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/input-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/js/forum_viewthread.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/js/jPages.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/js/jquery.JPlaceHolder.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/js/jquery.superslide.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/js/nav.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/js/pace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/js/scrolltop.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/left_bar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/line2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/linkstitle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/list.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/logo-footer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/logo2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/main-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/main_icon.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/main_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/member.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/meta-calss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/meta-date.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/meta-replay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/money.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/moquu_tab.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/more.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/msg_caption.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/nav_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/new_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/newbie_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/news-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/next2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/no.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/noLogin.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/noavatar_default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/notice.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/nv.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/off.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/page.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/page1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/page2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/page_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/pages.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/pages2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/partnerstitle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/personal_source.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/pic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/pmto.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/pn_post.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/pn_reply.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/point.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/point_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/point_r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/point_ron.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/point_z.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/point_zon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/portaldiy.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/post.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/post2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/postSprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/post_53.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/post_59.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/prev.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/prev2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/public.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/punch.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/qrcode.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/r_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/rank.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/rec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/rec_add.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/rec_subtract.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/refresh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/reply.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/report.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/rt_ico.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/rt_ico2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/s_chat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/scrolltop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/search1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/shade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/share.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/side-icon02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/sideSprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/side_reply.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/sigline.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/slide-btnl.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/slide-btnr.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/slide.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/slide_btn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/slide_btn2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/snsSprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/soc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/space.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/space_album.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/space_blog.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/space_doing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/space_follow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/space_message.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/space_profile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/space_share.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/space_thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/sprite-clean.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/star.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/sub-four.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/symbol-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/symbol-11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/symbol-26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/symbol-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/symbol-9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/thread_post.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/ticker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/top.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/top2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/top_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/tougao.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/travel3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/trip-ask-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/tu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/tv.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/views.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/vlineb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/vx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/website_icon@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/white2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/011.small.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/activity_s.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/activitysmall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/agree.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/common.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/debatesmall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/digest_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/digest_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/digest_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/disagree.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/folder_common.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/folder_hot.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/folder_lock.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/folder_new.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/folder_s.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/hot_1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/hot_2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/hot_3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/image_s.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/pin_1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/pin_2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/pin_3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/pollsmall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/recommend_1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/recommend_2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/recommend_3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/rewardsmall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/top.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/win8mi_common/tradesmall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/write.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/write2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/wx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/yes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/yp_spirit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/yp_spirit1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/yp_spirit2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/win8mi_20th_sunnytheme/src/yqlink.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/plugin/leon_reply/table/table_forum_reply_me.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/config_global.php" afterPath="$PROJECT_DIR$/config/config_global.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/log/201612_cplog.php" afterPath="$PROJECT_DIR$/data/log/201612_cplog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/sysdata/cache_domain.php" afterPath="$PROJECT_DIR$/data/sysdata/cache_domain.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/plugin/leon_reply/reply_me_member_set.inc.php" afterPath="$PROJECT_DIR$/source/plugin/leon_reply/reply_me_member_set.inc.php" />
     </list>
     <ignored path="discuz.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -833,9 +29,21 @@
       <file leaf-file-name="reply_me_member_set.inc.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/plugin/leon_reply/reply_me_member_set.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5067568">
-              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.28153154">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="table_forum_reply_me.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/plugin/leon_reply/table/table_forum_reply_me.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-22.1">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="e#7#89#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -890,6 +98,7 @@
         <option value="$PROJECT_DIR$/config/config_global.php" />
         <option value="$PROJECT_DIR$/source/plugin/leon_reply/database.php" />
         <option value="$PROJECT_DIR$/source/plugin/leon_reply/database" />
+        <option value="$PROJECT_DIR$/source/plugin/leon_reply/table_forum_reply_me.php" />
         <option value="$PROJECT_DIR$/source/plugin/leon_reply/reply_me_member_set.inc.php" />
       </list>
     </option>
@@ -999,7 +208,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myrepeats" />
+              <option name="myItemId" value="leon_reply" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1022,6 +231,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="leon_reply" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="table" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1050,6 +263,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\project\discuz\source\plugin\leon_reply\table" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\project\discuz\source\plugin\leon_reply" />
       <recent name="G:\project\discuz\activity" />
@@ -1361,14 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/admincp.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="65" column="55" selection-start-line="65" selection-start-column="51" selection-end-line="65" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/index.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1393,10 +601,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/memcp.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1464664116000" expanded="true" signature="1569:1732" placeholder="INSERT INTO ${DB::table('myrepeats')}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/myrepeats.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/admincp.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1891892">
+          <caret line="65" column="55" selection-start-line="65" selection-start-column="51" selection-end-line="65" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/plugin/leon_reply/table/table_forum_reply_me.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.1">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#7#89#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/plugin/leon_reply/reply_me_member_set.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5067568">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.28153154">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -17,3 +17,17 @@ if (!isset($_GET['pluginop']) || !in_array($_GET['pluginop'], $pluginop_list)) {
 
 
 //to realize the set and get function
+
+if ($_GET['pluginop'] == 'get') {
+
+//    die('sdf');
+    $m_forum_reply_me = C::t('#leon_reply#forum_reply_me');
+
+    var_dump($m_forum_reply_me);
+    die();
+}
+
+
+if ($_GET['pluginop'] == 'set') {
+
+}
