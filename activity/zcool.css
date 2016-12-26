@@ -1,0 +1,290 @@
+@charset "utf-8";
+/* CSS 大赛样式 guojunhui@zcool-mail.com  date:2014.11.17*/
+/*
+目录结构：
+  1. 重定义浏览器默认样式
+  2. 基础样式
+    2.1 浮动
+    2.2 清除浮动
+	2.3 对齐
+	2.4 定位
+	2.5 隐藏 显示
+	2.6 css3阴影
+	2.7 边框，css3圆角
+	2.8 外边距
+	2.9 内填充
+	2.10 字体
+	2.11 文字尺寸
+	2.12 文字行距
+	2.13 文字颜色
+	2.14 文字颜色强调
+	2.15 行内分割竖线
+	2.16 表单
+	2.17 按钮
+	2.18 内容
+	2.19 线条
+  3. 布局
+    3.1 尺寸
+	3.2 主视觉
+  4. 模块
+    4.1 头图
+	4.2 导航条
+	4.3 上传作品
+	4.4 下载模版
+	4.5 作品列表
+	4.6 排序
+	4.7 评委阵容
+	4.8 报名表格
+*/
+/*------------------zcool.dasai.css-------------------------*/
+/*2. 基础样式*/
+/*2.1 浮动
+	Name:			style_float
+	Example:		class="l/r"
+	Explain:		.l 左浮动/.r 右浮动
+*/
+.l{_display:inline;float:left!important;}.r{_display:inline;float:right!important;}
+/*2.2 清除浮动
+	Name:			style_clearfix
+	Example:		class="clearfix|cl"
+	Explain:		clearfix（简写cl）避免因子元素浮动而导致的父元素高度缺失能问题
+*/
+.cl:after,.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}.cl,.clearfix{zoom:1;}
+/*2.3 对齐
+	Name:			style_text-align
+	Example:		class="ftext-l/text-r/text-c"
+	Explain:		.text-水平对齐 （.text-l左对齐/.text-r右对齐/.text-c居中对齐）
+					.va-上下对齐 （.va-t 居上对齐 .va-m 居中对齐 .va-b 居下对齐）
+*/
+.text-l{text-align:left}.text-r{text-align:right}.text-c{text-align:center}
+.va-t{ vertical-align:top!important}.va-m,.va-m *{ vertical-align:middle!important}.va-b{ vertical-align:bottom!important}
+/*2.4 定位
+	Name:			style_position
+	Example:		class="pos-r/pos-a/pos-f"
+	Explain:		.pos-r 相对定位/.pos-a 绝对定位/.pos-f 固定
+*/
+.pos-r{position:relative}.pos-a{position:absolute}.pos-f{position:fixed}
+
+/*2.5 隐藏&显示
+  Name:				style_display
+  Example:    <div class="hide">隐藏的内容</div> <div class="show">显示的内容</div>
+  Explain:    		.hide 隐藏 / .show 显示
+*/
+.hide{display:none}[hidden]{display: none}
+.hidden{display:none!important;visibility:hidden!important}
+.f-hide{font:0/0 a;color:transparent;text-shadow:none;background-color:transparent;border:0}
+[class*="span"].hide,.row-fluid [class*="span"].hide{display:none;}
+.show{display:block}
+.invisible{visibility:hidden}
+
+/*2.6 css3阴影
+	Name:			style_shadow
+	Example:		class="box-shadow"
+	Explain:		css3阴影，IE下显示1像素边框
+*/
+.box-shadow{background-color:#fff;border:solid 1px #ddd\9;box-shadow:1px 1px 2px 2px #ddd;behavior: url(ie-css3.htc);}
+.text-shadow{text-shadow:1px 1px 2px 2px #ddd;behavior: url(ie-css3.htc);}
+/*2.7 边框，css3圆角
+	Name:			style_border
+	Example:		class="bk_gray radius"
+	Explain:		.bk_gray 边框/bk_gray radius圆角边框<
+*/
+.bk_gray{border:solid 1px #ddd}
+.radius{-khtml-border-radius:4px;-ms-border-radius:4px;-o-border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;}
+.radius-2{-khtml-border-radius:2px;-ms-border-radius:2px;-o-border-radius:2px;-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;}
+.radius-3{-khtml-border-radius:3px;-ms-border-radius:3px;-o-border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;}
+
+/*2.8 外边距
+	Name:			style_margin
+	Example:		class="mt-5/mt-10/..."
+	Explain:		.mt表示上边距/.mb表示下边距/.ml表示左边距/.mr表示右边距
+*/
+.mt-5{margin-top:5px}.mt-10{margin-top:10px}.mt-15{margin-top:15px}.mt-20{margin-top:20px}.mt-30{margin-top:30px}.mt-40{margin-top:40px}
+.mb-5{margin-bottom:5px}.mb-10{margin-bottom:10px}.mb-15{margin-bottom:15px}.mb-20{margin-bottom:20px}.mb-30{margin-bottom:30px}.mb-40{margin-bottom:40px}
+.ml-5{margin-left:5px}.ml-10{margin-left:10px}.ml-15{margin-left:15px}.ml-20{margin-left:20px}.ml-30{margin-left:30px}.ml-40{margin-left:40px}
+.mr-5{margin-right:5px}.mr-10{margin-right:10px}.mr-15{margin-right:15px}.mr-20{margin-right:20px}.mr-30{margin-right:30px}.mr-40{margin-right:40px}
+
+/*2.9 内填充
+	Name:			style_padding
+	Example:		class="pt-5/pt-10/……"
+	Explain:		.pt表示上填充/.pb表示下填充/.pl表示左填充/.pr表示右填充
+*/
+.pt-5{padding-top:5px}.pt-10{padding-top:10px}.pt-20{padding-top:20px}
+.pb-5{padding-bottom:5px}.pb-10{padding-bottom:10px}.pb-20{padding-bottom:20px}
+.pl-5{padding-left:5px}.pl-10{padding-left:10px}.pl-20{padding-left:20px}
+.pr-5{padding-right:5px}.pr-10{padding-right:10px}.pr-20{padding-right:20px}
+.pd-5{padding:5px}.pd-10{padding:10px}.pd-15{padding:15px}.pd-20{padding:20px}.pd-30{padding:30px}.pd-40{padding:40px}
+
+/*2.10 字体*/
+.MSYH{font-family:\5FAE\8F6F\96C5\9ED1,Arial;_font-family:Arial,\5b8b\4f53;}/*微软雅黑字体*/
+.en{ font-family:arial;}/*英文字体*/
+.f-song{ font-family:\65b0\5b8b\4f53,\5b8b\4f53;_font-family:\5b8b\4f53;}/*宋体*/
+
+/*2.11 文字尺寸
+	Name:			style_font-size
+	Example:		class="f12/f14/f16/f18/f20"
+	Explain:		12px字体/14px字体/16px字体/18px字体/20px字体
+*/
+.f-12{font-size:12px}.f-14{font-size:14px}.f-16{font-size:16px}.f-18{font-size:18px}.f-20{font-size:20px}.f-24{font-size:24px}.f-36{ font-size:36px}
+
+/*2.12 文字行距
+	Name:			mod_line-height
+	Example:		class="l16/l18/l20/l22/l24/l26/l28/l30"
+	Explain:		16px行高、18px行高、20px行高、22px行高、24px行高、26px行高、30px行高
+*/
+.l16{line-height:16px}.l18{line-height:18px}.l20{line-height:20px}.l22{line-height:22px}.l24{line-height:24px}.l26{line-height:26px}.l28{line-height:28px}.l30{line-height:30px}
+
+/*2.13 文字颜色
+	Name:			style_color
+	Example:		class="c_red|c_green|c_blue|c_white|c_black|c_gray|c_999|c_orange"
+	Explain:		红色|绿色|蓝色|白色|黑色|灰色|浅灰色|橙色
+*/
+.c_red,.c_red a{color:red}
+.c_green,.c_green a{color:green}
+.c_blue,.c_blue a{color:blue}
+.c_white,.c_white a{color:white}
+.c_black,.c_black a{color:black}
+.c_gray,.c_gray a{color:gray}
+.c_999,.c_999 a{color:#999}
+.c_orange,.c_orange a{color:orange}
+
+/*2.14 文字颜色强调
+	Example:		class="text-muted/text-primary/text-warning/text-error/text-danger/text-success/text-info"
+	Explain:		柔和/重要/警告/错误/危险/成功/信息
+*/
+.text-muted{color:#999}a.text-muted:hover{color:#808080}
+.text-primary{color:#428BCA}a.text-primary:hover{color:#247dc9}
+.text-warning{color:#c51900}a.text-warning:hover{color:#c51900}
+.text-error{color:#f33}a.text-error:hover{color:#f03}
+.text-danger{color:#c00}a.text-danger:hover{color:#900}
+.text-success{color:#7da700}a.text-success:hover{color:#7da700}
+.text-info{color:#1faef2}a.text-info:hover{color:#06c}
+.text-disabled{ color:#919090}a.text-disabled:hover{color:#919090}
+
+/*2.15 行内分割竖线
+	Name:			style_pipe
+	Example:		<span class="pipe">|</span>
+*/
+.pipe{margin:0 5px;color:#d4d4d4;font-size:12px!important;}
+/*2.16 表单*/
+.input_text,.textarea{border:solid 1px #bcdfd1;background-color:#fff;}
+.input_text,.textarea{padding:6px 4px;_padding:5px 3px;font-size:14px;font-family:\5FAE\8F6F\96C5\9ED1,Arial;_font-family:Arial,\5b8b\4f53;}
+.textarea{height:200px;line-height:22px;padding:6px 4px;_padding:5px 3px;}
+.input-file{}
+
+/*2.17 按钮*/
+.btnZT,a.btnZT{display:inline-block;padding:0 30px;line-height:40px;cursor:pointer;background:#2dabe8; color:#fff; font-size:14px; font-weight:bold; text-align:center;vertical-align:middle; text-decoration:none;outline:0 none;border:none;font-family:\5FAE\8F6F\96C5\9ED1,Arial;_font-family:Arial,\5b8b\4f53;}
+.btnZT:hover,a.btnZT:hover{ background:#0a8cf6; text-decoration:none}
+.btnZT-big{}
+.btnZT-small{height:28px;line-height:28px;font-size:14px;padding:0 10px;}
+.btnZT.disabled,.btnZT.disabled:hover{background-color:#bec2c9!important;cursor: default!important;}
+
+/*2.18 内容*/
+.zt-title{color: #222;font-size: 24px; font-weight:bold}/*标题*/
+.zt-content{color:#333;font-size:16px;line-height:30px;}/*内容*/
+.zt-content h3{margin-top:20px;font-size:16px}
+.zt-content p{text-indent:2em;margin-top:10px}
+.zt-content img{ max-width:100%;}
+.zt-content ul{text-indent:2em}
+.zt-content .f-14,.zt-content.f-14{ font-size:14px}
+a.more {color:#666;font-weight: normal;margin-top: 5px;font-size:14px!important;}/*更多*/
+
+/*2.19 线条*/
+.line1{ border-top:solid 1px #eee;border-bottom:solid 1px #fff;font-size:0;line-height:0; float:none; clear:both}
+
+/*3. 布局*/
+/*3.1 尺寸*/
+.wp{width:1083px;margin-left:auto; margin-right:auto;text-align:left}/*页面整体宽度*/
+.w370{ width:370px;}
+.w220{ width:220px;}
+
+/*3.2 主视觉*/
+body{background-color:#fff;}
+.maincolor{color:#78615d}
+.c-link{ color:#3a8dcc!important}
+
+/*4. 模块*/
+.navMoreCon{ height:91px}
+.navMoreCon a{ float:left;}
+/*4.1 头图
+	Name:	mod_headerBanner
+	Example: <div class="headerBanner"></div>
+*/
+.headerBanner{background:#541316 url(../images/banner.png) no-repeat center 0;height:350px;margin-top: -3px;z-index: 1;}
+
+/*4.2 导航条
+	Name:	mod_mainnav
+	Example:		
+<div class="navWrapper">
+  <div class="mainnavBar cl wp">
+    <nav class="mainnav cl">
+	  <ul class="cl">
+	    <li class="current"><a title="首页" href="index.html">首页</a></li>
+        <li><a title="活动介绍" href="details.html">活动介绍</a></li>
+        <li><a title="设计说明" href="design.html">设计说明</a></li>
+        <li><a title="全部作品" href="works.html">全部作品</a></li>
+        <li><a target="_blank" title="讨论组" href="http://group.zcool.com.cn/group/2726">讨论组</a></li>
+	  </ul>
+    </nav>
+  </div>
+</div>
+	Explain：鼠标经过状态a:hover，当前选中状态li:current。		
+*/
+.navWrapper{ background-color:#c1e3ff}
+.mainnav li,.mainnav li a{height:50px;line-height:50px;}/*导航条高度*/
+.mainnav li{color:#fff;font-size:18px;}
+.mainnav li a{padding:0 24px;color:#74402c;}/*链接颜色*/
+.mainnav li a:hover,.mainnav li.current a{color:#fff;background-color:#685652}/*导航交互颜色*/
+.mainnavBar{ position:relative}
+.mainnav{width:100%;z-index:1;}/*导航条背景*/
+.mainnav li{float:left;display:inline;}/*设置字体*/
+.mainnav li a{display:inline-block;}/*链接颜色*/
+.mainnav li a:hover,.mainnav li.current a{text-decoration:none;}/*交互颜色*/
+
+/*4.3 上传作品*/
+a.btnZT-uploadzp{ position:absolute;line-height:34px;font-size:16px;top:8px;right:120px;}
+/*4.4 下载模版*/
+a.btnZT-downmb{position:absolute;line-height:34px;font-size:16px;top:8px;right:0;}
+
+/*4.5 作品列表*/
+.zxUl{margin-right:-60px;padding:0 0 0 0px;}
+.zxUl li{float:left;width:250px; height:280px;margin:20px 25px 0 0;}
+.zxUl li img{width:250px;height:188px; display:block}
+	.zxUlCon{line-height:22px;margin-top:10px;}
+	.zxUlTitle{width:230px; white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:14px;padding:0 0 5px 0;color:#4c2925;}
+	.zxUlTitle a{color:#4c2925;}
+	.zxUlDesS{color:#7e6866;font-size:12px;}
+	.zxUlDes{color:#a09292; font-size:12px; font-family:Verdana}
+	.zxUlDes a{color:#a09292;}
+	.zxUIvote{color:#a09292; font-size:14px}
+	.zxUIdown{ font-size:14px; padding-left:20px; background:url(../images/icon-down.png) no-repeat 0 center}
+.zxVote .zxUlDes,.zxVote .zxUIvote{ padding-left:20px}
+.zxVote .zxUlTitle a{ color:#054267}
+.zxUlDesS span{ width:45px;font-size:12px; display:inline-block; float:left; padding-left:20px; background-repeat:no-repeat; background-position:0 center}
+.zxUlDesS .view{ background-image:url(../images/icon_pv.png);}
+.zxUlDesS .comment{ background-image:url(../images/icon_comment.png);}
+.zxUlDesS .favorit{ background-image:url(../images/icon_ding.png);}
+
+/*4.6 排序*/
+.dosx{ color:#74402C}
+.dosx a{color:#74402C;}
+.dosx span{color:#999;}
+.dosx .verdana{ color:#74402C}
+.dosx{ text-align:right;float:right;font-size:12px;margin-top:10px; font-weight:normal}
+.dosx a.selected{font-weight:bold;}
+.dosx span{margin:0 5px;}
+.dosx .verdana{font-family:Verdana, Geneva, sans-serif;line-height:1; vertical-align:text-bottom;margin:0;}
+
+/*4.7 评委阵容*/
+.pwuls{ margin-right:-50px}
+.pwuls .item{width:327px; height:auto;text-align:left;float:left;overflow:hidden;padding-right:50px;margin-top:40px}
+	.pw-pic{width:128px;height:128px;float:left;}
+	.pw-info{margin-left:140px;}
+	.pw-name{font-size:18px; font-weight:normal}
+	.pw-title{color:#87736f;padding-left:15px; font-size:12px;}	
+	.pw-title-all{font-size:14px;line-height:23px; color:#717171}
+
+/*4.8 报名表格*/
+.zxTable{margin-top:10px;}
+.zxTable th{font-weight:normal; text-align:left;width:80px;padding:15px 0 0 0;font-size:14px; vertical-align:top;}
+.zxTable td{padding:10px 0;font-size:12px;}
