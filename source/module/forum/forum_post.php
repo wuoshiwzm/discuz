@@ -238,6 +238,10 @@ if($special == 3 && !isset($_G['setting']['extcredits'][$_G['setting']['creditst
 $_G['group']['allowanonymous'] = $_G['forum']['allowanonymous'] || $_G['group']['allowanonymous'] ? 1 : 0;
 
 if($_GET['action'] == 'newthread' && $_G['forum']['allowspecialonly'] && !$special) {
+
+
+
+
 	if($_G['group']['allowpostpoll']) {
 		$special = 1;
 	} elseif($_G['group']['allowposttrade']) {
@@ -292,6 +296,8 @@ if($specialextra) {
 }
 
 if($_GET['action'] == 'newthread') {
+
+
 	$policykey = 'post';
 } elseif($_GET['action'] == 'reply') {
 	$policykey = 'reply';

@@ -64,6 +64,7 @@ class core
 
 	protected static function _make_obj($name, $type, $extendable = false, $p = array()) {
 		$pluginid = null;
+		//如果第一位是‘’#’ 则说明是插件
 		if($name[0] === '#') {
 			list(, $pluginid, $name) = explode('#', $name);
 		}

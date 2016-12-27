@@ -7,9 +7,12 @@
  *      $Id: portal_index.php 31313 2012-08-10 03:51:03Z zhangguosheng $
  */
 
+
+
 if(!defined('IN_DISCUZ')) {
 	exit('Access Denied');
 }
+
 
 list($navtitle, $metadescription, $metakeywords) = get_seosetting('portal');
 if(!$navtitle) {

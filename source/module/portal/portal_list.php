@@ -11,10 +11,14 @@ if(!defined('IN_DISCUZ')) {
 	exit('Access Denied');
 }
 
+
 $_G['catid'] = $catid = max(0,intval($_GET['catid']));
 if(empty($catid)) {
 	showmessage('list_choose_category', dreferer());
 }
+
+
+
 $portalcategory = &$_G['cache']['portalcategory'];
 $cat = $portalcategory[$catid];
 

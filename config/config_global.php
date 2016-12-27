@@ -4,7 +4,7 @@
 $_config = array();
 
 //-----------------------------添加插件开发--------------------------------//
-$_config['plugindeveloper'] = true;
+//$_config['plugindeveloper'] = true;
 
 // ----------------------------  CONFIG DB  ----------------------------- //
 $_config['db']['1']['dbhost'] = 'localhost';
