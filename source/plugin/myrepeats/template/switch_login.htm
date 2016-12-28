@@ -11,7 +11,10 @@
 			<em>{lang myrepeats:switch_title}</em>
 			<span><!--{if !empty($_GET['infloat'])}--><a href="javascript:;" class="flbc" onclick="hideWindow('$_GET[handlekey]', 0, 1);" title="{lang close}">{lang close}</a><!--{/if}--></span>
 		</h3>
-		<form method="post" autocomplete="off" name="myrepeats" id="loginform_myrepeats" class="cl" action="plugin.php?id=myrepeats:switch&myrepeatssubmit=yes&handlekey=myrepeat" onsubmit="ajaxpost('loginform_myrepeats', 'returnmessage_myrepeats', 'returnmessage_myrepeats', 'onerror');return false;">
+		<form method="post" autocomplete="off"
+			  name="myrepeats" id="loginform_myrepeats"
+			  class="cl" action="plugin.php?id=myrepeats:switch&myrepeatssubmit=yes&handlekey=myrepeat"
+			  onsubmit="ajaxpost('loginform_myrepeats', 'returnmessage_myrepeats', 'returnmessage_myrepeats', 'onerror');return false;">
 			<div class="c cl">
 				<input type="hidden" name="formhash" value="{FORMHASH}" />
 				<input type="hidden" name="authorfirst" value="yes" />

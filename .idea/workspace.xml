@@ -5,93 +5,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad5ed3ee-7cac-424e-817d-48854fb90bfd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/img/015aa15860953ca8012060c878f69d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/img/jx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/img/ps.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/img/pw1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/img/pw2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/img/pw3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/img/pw4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/img/pw5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/img/pw6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/img/time.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/img/weibobanner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/img/z1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/img/z2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/img/zcwx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity/table/table_forum_reply_me.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/module/activity/activity_detail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/module/activity/activity_discuss.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/module/activity/activity_gallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/module/activity/activity_index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/module/activity/activity_judge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/module/activity/activity_upload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/module/activity/activity_vote.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/module/activity/index.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/module/portal/portal_activity_discuss.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/css/StdID.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/css/a.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/css/a_002.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/css/core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/css/dplus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/css/globalwide.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/css/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/css/listlive.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/css/wb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/css/zcool.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/detail.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/discuss.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/gallery.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/header.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/index.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/index1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/judge.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/upload.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/vote.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/portal/view_discuss.htm.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/PageView.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/WebUtil.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/bcore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/global.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/iframeWidget.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/imgdomain.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/index.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/jquery-1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/jquery-selection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/jquery_002.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/logon-v1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/passport-v1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/passport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/zcool-analytics.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/activity/zhanku.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_home_spacecp_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_home_spacecp_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_home_spacecp_plugin.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_home_spacecp_promotion.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_myrepeats_memcp.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/activity/common/common.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/activity/common/footer.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/activity/common/header.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/activity/protal/index backup.htm" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/footer.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/default/activity/js/jquery.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_activity_index.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_common_extcredits.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_common_extgroups.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_common_faq.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_common_header_forum_forumdisplay.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_common_header_forum_post.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_common_header_forum_viewthread.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_common_header_member_register.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_common_header_misc_faq.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_common_header_portal_portalcp.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_common_header_portal_view.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_forum_ajax_forumlist.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_forum_discuzcode.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_forum_forumdisplay_fastpost.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_forum_post.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_forum_post_activity.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_forum_post_debate.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_forum_post_poll.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_forum_post_reward.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_forum_relatekw.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_forum_topicadmin_modlayer.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_forum_viewthread_node.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_forum_viewthread_poll.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_forum_viewthread_profile_node.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_home_space_click.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_home_spacecp_profile.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_home_spacecp_usergroup.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_member_register.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_portal_portal_diyhelp.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_portal_portalcp_article.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_5_search_forum.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_diy_activity_detail.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_diy_activity_discuss.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_diy_activity_gallery.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_diy_activity_index1.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_diy_forum_forumdisplay.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_diy_forum_viewthread.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_diy_portal_index.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/template/6_diy_portal_view.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/default/activity/index1.htm" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/config_global.php" afterPath="$PROJECT_DIR$/config/config_global.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/log/201612_cplog.php" afterPath="$PROJECT_DIR$/data/log/201612_cplog.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/log/201612_errorlog.php" afterPath="$PROJECT_DIR$/data/log/201612_errorlog.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/sysdata/cache_domain.php" afterPath="$PROJECT_DIR$/data/sysdata/cache_domain.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/template/6_5_activity_header.tpl.php" afterPath="$PROJECT_DIR$/data/template/6_5_activity_header.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/template/6_5_common_footer.tpl.php" afterPath="$PROJECT_DIR$/data/template/6_5_common_footer.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/template/6_5_common_header_forum_index.tpl.php" afterPath="$PROJECT_DIR$/data/template/6_5_common_header_forum_index.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/template/6_5_common_header_home_spacecp.tpl.php" afterPath="$PROJECT_DIR$/data/template/6_5_common_header_home_spacecp.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/class/class_core.php" afterPath="$PROJECT_DIR$/source/class/class_core.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/module/forum/forum_post.php" afterPath="$PROJECT_DIR$/source/module/forum/forum_post.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/module/portal/portal_index.php" afterPath="$PROJECT_DIR$/source/module/portal/portal_index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/module/portal/portal_list.php" afterPath="$PROJECT_DIR$/source/module/portal/portal_list.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/plugin/leon_reply/reply_me_member_set.inc.php" afterPath="$PROJECT_DIR$/source/plugin/leon_reply/reply_me_member_set.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/plugin/leon_reply/table/table_forum_reply_me.php" afterPath="$PROJECT_DIR$/source/plugin/leon_reply/table/table_forum_reply_me.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/default/portal/index.htm" afterPath="$PROJECT_DIR$/template/default/portal/index.htm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/template/activity/protal/index.htm" afterPath="$PROJECT_DIR$/activity/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/template/6_5_common_header_member_logging.tpl.php" afterPath="$PROJECT_DIR$/data/template/6_5_common_header_member_logging.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/template/6_5_common_header_portal_index.tpl.php" afterPath="$PROJECT_DIR$/data/template/6_5_common_header_portal_index.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/template/6_5_common_header_portal_list.tpl.php" afterPath="$PROJECT_DIR$/data/template/6_5_common_header_portal_list.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/template/6_5_common_header_userstatus.tpl.php" afterPath="$PROJECT_DIR$/data/template/6_5_common_header_userstatus.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/template/6_5_member_login.tpl.php" afterPath="$PROJECT_DIR$/data/template/6_5_member_login.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/template/6_5_member_login_simple.tpl.php" afterPath="$PROJECT_DIR$/data/template/6_5_member_login_simple.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/template/6_diy_activity_index.tpl.php" afterPath="$PROJECT_DIR$/data/template/6_diy_activity_index.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/template/6_diy_activity_judge.tpl.php" afterPath="$PROJECT_DIR$/data/template/6_diy_activity_judge.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/template/6_diy_activity_upload.tpl.php" afterPath="$PROJECT_DIR$/data/template/6_diy_activity_upload.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/template/6_diy_activity_vote.tpl.php" afterPath="$PROJECT_DIR$/data/template/6_diy_activity_vote.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/template/6_diy_forum_discuz.tpl.php" afterPath="$PROJECT_DIR$/data/template/6_diy_forum_discuz.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/module/activity/activity_judge.php" afterPath="$PROJECT_DIR$/source/module/activity/activity_judge.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/module/activity/activity_upload.php" afterPath="$PROJECT_DIR$/source/module/activity/activity_upload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/module/activity/activity_vote.php" afterPath="$PROJECT_DIR$/source/module/activity/activity_vote.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/plugin/myrepeats/template/switch_login.htm" afterPath="$PROJECT_DIR$/source/plugin/myrepeats/template/switch_login.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/default/activity/detail.htm" afterPath="$PROJECT_DIR$/template/default/activity/detail.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/default/activity/discuss.htm" afterPath="$PROJECT_DIR$/template/default/activity/discuss.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/default/activity/gallery.htm" afterPath="$PROJECT_DIR$/template/default/activity/gallery.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/default/activity/header.htm" afterPath="$PROJECT_DIR$/template/default/activity/header.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/default/activity/index.htm" afterPath="$PROJECT_DIR$/template/default/activity/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/default/activity/judge.htm" afterPath="$PROJECT_DIR$/template/default/activity/judge.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/default/activity/upload.htm" afterPath="$PROJECT_DIR$/template/default/activity/upload.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/default/activity/vote.htm" afterPath="$PROJECT_DIR$/template/default/activity/vote.htm" />
     </list>
     <ignored path="discuz.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -113,84 +99,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="myrepeats.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/myrepeats.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.0">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="upload.htm" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/template/default/activity/upload.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31791908">
-              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_upload.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/module/activity/activity_upload.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-25.833334">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_judge.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="activity_judge.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/module/activity/activity_judge.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.833334">
-              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uninstall.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/uninstall.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="switch.inc.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/switch.inc.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="38.666668">
-              <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="install.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/install.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.666666">
-              <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="memcp.inc.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/memcp.inc.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-23.0">
-              <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.7976879">
+              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding>
-                <marker date="1464664116000" expanded="true" signature="1569:1732" placeholder="INSERT INTO ${DB::table('myrepeats')}..." />
+                <marker date="1482915822570" expanded="true" signature="515:560" placeholder="SELECT * FRO..pre_activity_upload..." />
+                <marker date="1482915822570" expanded="true" signature="1421:1463" placeholder="SELECT * FRO..activity_vote..." />
+                <marker date="1482915822570" expanded="true" signature="1738:1787" placeholder="SELECT * FRO..pre_activity_upload..." />
+                <marker date="1482915822570" expanded="true" signature="1738:1818" placeholder="SELECT * FRO..pre_activity_upload..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vote.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/default/activity/vote.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.833334">
+              <caret line="28" column="19" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -234,26 +163,29 @@
         <option value="$PROJECT_DIR$/config/config_global.php" />
         <option value="$PROJECT_DIR$/template/default/activity/index.php" />
         <option value="$PROJECT_DIR$/template/default/activity/index1.htm" />
-        <option value="$PROJECT_DIR$/template/default/activity/header.htm" />
         <option value="$PROJECT_DIR$/template/default/activity/detail.html" />
-        <option value="$PROJECT_DIR$/template/default/activity/detail.htm" />
-        <option value="$PROJECT_DIR$/template/default/activity/discuss.htm" />
-        <option value="$PROJECT_DIR$/template/default/activity/judge.htm" />
         <option value="$PROJECT_DIR$/source/module/activity/activity_index.php" />
         <option value="$PROJECT_DIR$/source/module/activity/activity_discuss.php" />
-        <option value="$PROJECT_DIR$/source/module/activity/activity_vote.php" />
-        <option value="$PROJECT_DIR$/template/default/activity/gallery.htm" />
         <option value="$PROJECT_DIR$/source/module/activity/activity_gallery.php" />
         <option value="$PROJECT_DIR$/activity.php" />
-        <option value="$PROJECT_DIR$/template/default/activity/vote.htm" />
         <option value="$USER_HOME$/Desktop/discuss.htm" />
-        <option value="$PROJECT_DIR$/template/default/activity/index.htm" />
         <option value="$PROJECT_DIR$/template/default/portal/view_discuss.htm.html" />
         <option value="$PROJECT_DIR$/source/module/activity/activity_detail.php" />
         <option value="$PROJECT_DIR$/source/module/forum/forum_post.php" />
+        <option value="$PROJECT_DIR$/source/plugin/myrepeats/template/switch_login.htm" />
+        <option value="$PROJECT_DIR$/source/module/activity/table/table_activity_upload.php" />
+        <option value="$PROJECT_DIR$/source/module/activity/activity_vote.php" />
         <option value="$PROJECT_DIR$/source/module/activity/activity_upload.php" />
-        <option value="$PROJECT_DIR$/source/module/activity/activity_judge.php" />
         <option value="$PROJECT_DIR$/template/default/activity/upload.htm" />
+        <option value="$PROJECT_DIR$/template/default/activity/index.htm" />
+        <option value="$PROJECT_DIR$/template/default/activity/detail.htm" />
+        <option value="$PROJECT_DIR$/template/default/activity/discuss.htm" />
+        <option value="$PROJECT_DIR$/template/default/activity/header.htm" />
+        <option value="$PROJECT_DIR$/template/default/activity/footer.htm" />
+        <option value="$PROJECT_DIR$/template/default/activity/judge.htm" />
+        <option value="$PROJECT_DIR$/template/default/activity/gallery.htm" />
+        <option value="$PROJECT_DIR$/template/default/activity/vote.htm" />
+        <option value="$PROJECT_DIR$/source/module/activity/activity_judge.php" />
       </list>
     </option>
   </component>
@@ -367,6 +299,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="discuz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="discuz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="activity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -435,16 +389,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\project\discuz\template\default\activity\img" />
-      <recent name="G:\project\discuz\source\plugin\leon_reply\table" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\project\discuz\template\default\activity" />
+      <recent name="G:\project\discuz\template\default\activity\js" />
       <recent name="G:\project\discuz\template\default\portal" />
       <recent name="G:\project\discuz\source\module\portal" />
       <recent name="G:\project\discuz\source\module\activity" />
-      <recent name="G:\project\discuz\template\default\activity" />
-      <recent name="G:\project\discuz\template\default\activity\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\project\discuz\source\module\activity\table" />
+      <recent name="G:\project\discuz\template\default\activity\img" />
+      <recent name="G:\project\discuz\source\plugin\leon_reply\table" />
     </key>
   </component>
   <component name="RunManager">
@@ -494,7 +449,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26332623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -531,51 +486,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/default/activity/img/pw5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/activity/img/pw6.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/activity/img/zcwx.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/activity/img/jx.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/activity/img/ps.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/activity/img/pw1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/activity/img/z2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/activity/img/z1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/activity/img/weibobanner.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/default/activity/css/a.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -593,13 +503,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/activity/header.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.166667">
-          <caret line="149" column="42" selection-start-line="149" selection-start-column="35" selection-end-line="149" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/default/common/header.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47976878">
@@ -607,52 +510,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/activity/index1.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28901735">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/activity/judge.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/activity/discuss.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/activity/detail.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/module/activity/activity_discuss.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.833333">
           <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/module/activity/activity_vote.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.166667">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/module/activity/activity_index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.166666">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -664,13 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/activity/gallery.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/module/activity/activity_gallery.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-25.0">
@@ -678,18 +532,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/activity/vote.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.8333333">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/module/portal/portal_index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -708,7 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -725,7 +570,7 @@
         <state vertical-scroll-proportion="-5.3295455">
           <caret line="351" column="5" selection-start-line="351" selection-start-column="5" selection-end-line="351" selection-end-column="33" />
           <folding>
-            <element signature="e#7#191#0#PHP" expanded="true" />
+            <element signature="e#7#191#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -742,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.549133">
           <caret line="306" column="0" selection-start-line="306" selection-start-column="0" selection-end-line="307" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,7 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.115606934">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,7 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.028901733">
           <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,28 +612,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/activity/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028901733">
-          <caret line="96" column="85" selection-start-line="96" selection-start-column="85" selection-end-line="96" selection-end-column="85" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#dd#3;n#dl#3;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1482822298641" expanded="true" signature="1206:1311" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/discuss.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.028901733">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/template/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/table/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/template/memcp.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5202312">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -803,42 +648,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/template/index.htm">
+    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/uninstall.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.34642032">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/table/index.htm">
+    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/install.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.7505774">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/template/memcp.htm">
+    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/memcp.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5202312">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.7979215">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding>
+            <marker date="1464664116000" expanded="true" signature="1569:1732" placeholder="INSERT INTO ${DB::table('myrepeats')}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/myrepeats.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36489606">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/template/switch_login.htm">
+    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/switch.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6069364">
-          <caret line="39" column="69" selection-start-line="33" selection-start-column="70" selection-end-line="39" selection-end-column="69" />
+        <state vertical-scroll-proportion="0.74104047">
+          <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/admincp/admincp_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9461077">
+          <caret line="76" column="1" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/module/member/member_logging.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40462428">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/table/table_myrepeats.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-15.0">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="90" />
           <folding>
             <marker date="1464664116000" expanded="true" signature="478:507" placeholder="SELECT * FRO..." />
             <marker date="1464664116000" expanded="true" signature="619:653" placeholder="SELECT * FRO..." />
@@ -851,69 +722,182 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/uninstall.php">
+    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/template/switch_login.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/switch.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="38.666668">
-          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/install.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.666666">
-          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/memcp.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.0">
-          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.1551723">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="16" selection-end-column="136" />
           <folding>
-            <marker date="1464664116000" expanded="true" signature="1569:1732" placeholder="INSERT INTO ${DB::table('myrepeats')}..." />
+            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/plugin/myrepeats/myrepeats.class.php">
+    <entry file="file://$PROJECT_DIR$/source/module/member/member_register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.28901735">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/module/activity/activity_judge.php">
+    <entry file="file://$PROJECT_DIR$/source/class/class_member.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.833334">
-          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        <state vertical-scroll-proportion="-16.389595">
+          <caret line="338" column="13" selection-start-line="338" selection-start-column="13" selection-end-line="338" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/member.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39306358">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/activity/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/module/activity/activity_upload.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.833334">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state vertical-scroll-proportion="-8.333333">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/module/activity/activity_vote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8333335">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1482907573084" expanded="true" signature="266:315" placeholder="SELECT * FRO..pre_activity_upload..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/module/activity/activity_index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.5">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/default/activity/upload.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31791908">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="68" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/common/block_forumtree.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/common/block_thread.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/common/getatuser.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/activity/detail.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/activity/discuss.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.028901733">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/activity/footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/activity/judge.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.333333">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/activity/gallery.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6666666">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/activity/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4913295">
+          <caret line="17" column="90" selection-start-line="17" selection-start-column="90" selection-end-line="17" selection-end-column="90" />
+          <folding>
+            <marker date="1482914146744" expanded="true" signature="1296:1401" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/activity/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="86" selection-start-line="0" selection-start-column="86" selection-end-line="0" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/activity/vote.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.833334">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/module/activity/activity_judge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7976879">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding>
+            <marker date="1482915822570" expanded="true" signature="515:560" placeholder="SELECT * FRO..pre_activity_upload..." />
+            <marker date="1482915822570" expanded="true" signature="1421:1463" placeholder="SELECT * FRO..activity_vote..." />
+            <marker date="1482915822570" expanded="true" signature="1738:1787" placeholder="SELECT * FRO..pre_activity_upload..." />
+            <marker date="1482915822570" expanded="true" signature="1738:1818" placeholder="SELECT * FRO..pre_activity_upload..." />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -8,12 +8,9 @@ upload.htm - 讨论
 <body>
 
 
-<form action="/activity.php?mod=judge" method="post">
-
-input ;<input type="text"  name="TEST"/>
-
+<form action="/activity.php?mod=judge&amp;action=article" method="post">
+作品名：<input type="text"  name="TEST"/>
 <input type="submit">
-
 </form>
 
 </body>

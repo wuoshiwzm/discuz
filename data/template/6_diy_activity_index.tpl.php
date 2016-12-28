@@ -16,7 +16,7 @@
     <meta name="renderer" content="webkit">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" type="text/css" href="/template/default/activity/css/globalwide.css">
-
+    <script src="/template/default/activity/js/jquery.js" type="text/javascript"></script>
 </head>
 <body><?php include template('common/header'); ?>你的是会员i22d是<?php echo $_G['uid'];?>111111
 你的会员名是<?php echo $_G['username'];?>

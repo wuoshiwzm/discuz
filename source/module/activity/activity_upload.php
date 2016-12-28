@@ -12,26 +12,8 @@ if(!defined('IN_DISCUZ')) {
 }
 
 
-list($navtitle, $metadescription, $metakeywords) = get_seosetting('portal');
-if(!$navtitle) {
-    $navtitle = $_G['setting']['navs'][1]['navname'];
-    $nobbname = false;
-} else {
-    $nobbname = true;
-}
-if(!$metakeywords) {
-    $metakeywords = $_G['setting']['navs'][1]['navname'];
-}
-if(!$metadescription) {
-    $metadescription = $_G['setting']['navs'][1]['navname'];
-}
-
-if(isset($_G['makehtml'])){
-    helper_makehtml::portal_index();
-}
-
 if(!$_G['uid']){
-    die('no access');
+    die('请登录');
 }
 
 
